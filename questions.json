@@ -1,0 +1,52 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "We can also write (4 + 4) as:",
+        "options": [
+            "2 × 2",
+            "2 × 4",
+            "5 × 2"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "(5 + 5 + 5) can also be written as:",
+        "options": [
+            "3 × 5",
+            "4 × 3",
+            "5 × 5"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "(2 + 2 + 2 + 2 + 2 + 2) can also be written as:",
+        "options": [
+            "2 × 6",
+            "6 × 3",
+            "6 × 6"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "(4 + 4 + 4) can also be written as:",
+        "options": [
+            "4 × 4",
+            "3 × 3",
+            "4 × 3"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "(5 + 5 + 5 + 5) can also be written as:",
+        "options": [
+            "5 × 5",
+            "5 × 4",
+            "5 × 3"
+        ],
+        "correct": 1
+    }
+]
